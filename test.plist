@@ -19,13 +19,13 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>喜茶</string>
+<string>StarFuture</string>
 <key>bundle-version</key>
-<string>1.1（app的版本，在xcode中看）</string>
+<string>1.0.0（app的版本，在xcode中看）</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>喜茶</string>
+<string>StarFuture</string>
 </dict>
 </dict>
 </array>
