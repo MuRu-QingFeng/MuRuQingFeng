@@ -19,7 +19,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>Star</string>
+<string>star-1.0.4.ipa</string>
 <key>bundle-version</key>
 <string>1.0.4（app的版本，在xcode中看）</string>
 <key>kind</key>
