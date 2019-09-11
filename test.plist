@@ -2,47 +2,32 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    //这个地方写ipa地址
-                    <string>http://192.168.1.201/pa39_CXC_Sh.ipa</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>needs-shine</key>
-                    <false/>
-                    <key>url</key>
-                    <string></string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <false/>
-                    <key>url</key>
-                    <string>安装过程显示图片</string>
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>com.xianhenet.hunpopo</string>
-                <key>bundle-version</key>
-                <string>1.0</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>packName</string>
-            </dict>
-        </dict>
-    </array>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>http://192.168.1.48/testIpa/pa39_CXC_Sh.ipa</string>
+<key>New item</key>
+<string></string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>喜茶</string>
+<key>bundle-version</key>
+<string>1.1（app的版本，在xcode中看）</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>喜茶</string>
+</dict>
+</dict>
+</array>
 </dict>
 </plist>
